@@ -1,7 +1,7 @@
 {
   "name": "signed-request",
   "description": "A signed JSON container.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/nshah/nodejs-signed-request",
   "author": "Naitik Shah <n@daaku.org>",
   "main": "lib/signed-request",
@@ -12,7 +12,7 @@
   "scripts": { "test": "./node_modules/.bin/expresso -c" },
   "dependencies": {
     "b64url": ">= 1.0.0",
-    "makeerror": ">= 1.0.0"
+    "makeerror": ">= 1.0.3"
   },
   "devDependencies": {
     "expresso": ">= 0.8.1"
