@@ -1,13 +1,13 @@
 {
   "name": "signed-request",
   "description": "A signed JSON container.",
-  "version": "1.0.6",
-  "homepage": "https://github.com/nshah/nodejs-signed-request",
+  "version": "1.0.7",
+  "homepage": "https://github.com/daaku/nodejs-signed-request",
   "author": "Naitik Shah <n@daaku.org>",
   "main": "lib/signed-request",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nshah/nodejs-signed-request"
+    "url": "https://github.com/daaku/nodejs-signed-request"
   },
   "scripts": { "test": "NODE_PATH=./lib mocha --ui exports" },
   "dependencies": {

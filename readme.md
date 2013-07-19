@@ -1,4 +1,4 @@
-signed-request [![Build Status](https://secure.travis-ci.org/nshah/nodejs-signed-request.png)](http://travis-ci.org/nshah/nodejs-signed-request)
+signed-request [![Build Status](https://secure.travis-ci.org/daaku/nodejs-signed-request.png)](http://travis-ci.org/daaku/nodejs-signed-request)
 ==============
 
 A signed JSON container. The form is basically:
